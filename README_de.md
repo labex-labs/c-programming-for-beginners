@@ -31,26 +31,26 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                                     | Schwierigkeit   | Übung                                                                                                                        |
 |---------|----------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Erstellen Sie "Hello World" in C                      | ★★★             | <a target='_blank' href='https://labex.io/de/tutorials/c-create-hello-world-in-c-438286'>Labor Starten</a>                   |
-|      02 | 🎯 Entwerfen Sie Ihre erste C-Begrüßung                  | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/c-craft-your-first-c-greeting-438337'>Challenge Starten</a>           |
-|      03 | 📖 Variablen und Datentypen in C deklarieren             | ★★☆             | <a target='_blank' href='https://labex.io/de/tutorials/c-declare-variables-and-data-types-in-c-438287'>Labor Starten</a>     |
-|      04 | 🎯 Schülerinformations-Tracker erstellen                 | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/c-build-student-information-tracker-438353'>Challenge Starten</a>     |
-|      05 | 📖 Grundlegende Operatoren in C verwenden                | ★★☆             | <a target='_blank' href='https://labex.io/de/tutorials/c-use-basic-operators-in-c-438288'>Labor Starten</a>                  |
-|      06 | 🎯 Erstellen Sie einen Temperaturumrechner               | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/c-create-a-temperature-converter-438383'>Challenge Starten</a>        |
-|      07 | 📖 Bedingte Anweisungen in C implementieren              | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/c-implement-conditionals-in-c-438331'>Labor Starten</a>               |
-|      08 | 🎯 Schülerleistungen klassifizieren                      | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/c-classify-student-grades-438387'>Challenge Starten</a>               |
-|      09 | 📖 Schleifen in C implementieren                         | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/c-implement-loops-in-c-438332'>Labor Starten</a>                      |
-|      10 | 🎯 Multiplikationstabellen generieren                    | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/c-generate-multiplication-tables-438391'>Challenge Starten</a>        |
-|      11 | 📖 Arrays in C verarbeiten                               | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/c-handle-arrays-in-c-438330'>Labor Starten</a>                        |
-|      12 | 🎯 Analyse des Temperatur-Arrays                         | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/c-analyze-temperature-array-438390'>Challenge Starten</a>             |
-|      13 | 📖 Funktionen in C erstellen                             | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/c-build-functions-in-c-438329'>Labor Starten</a>                      |
-|      14 | 🎯 Erstellen einer Funktion zur Überprüfung auf gerad... | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/c-create-even-number-validator-function-438393'>Challenge Starten</a> |
-|      15 | 📖 Projekte in C mit Make verwalten                      | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/c-manage-projects-with-make-in-c-438333'>Labor Starten</a>            |
-|      16 | 🎯 Erstellen einer modularen Makefile                    | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/c-create-a-modular-makefile-438425'>Challenge Starten</a>             |
+|      01 | 📖 Erstellen Sie "Hello World" in C                      | Experte         | <a target='_blank' href='https://labex.io/de/tutorials/c-create-hello-world-in-c-438286'>Labor Starten</a>                   |
+|      02 | 🎯 Entwerfen Sie Ihre erste C-Begrüßung                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/c-craft-your-first-c-greeting-438337'>Challenge Starten</a>           |
+|      03 | 📖 Variablen und Datentypen in C deklarieren             | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/c-declare-variables-and-data-types-in-c-438287'>Labor Starten</a>     |
+|      04 | 🎯 Schülerinformations-Tracker erstellen                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/c-build-student-information-tracker-438353'>Challenge Starten</a>     |
+|      05 | 📖 Grundlegende Operatoren in C verwenden                | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/c-use-basic-operators-in-c-438288'>Labor Starten</a>                  |
+|      06 | 🎯 Erstellen Sie einen Temperaturumrechner               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/c-create-a-temperature-converter-438383'>Challenge Starten</a>        |
+|      07 | 📖 Bedingte Anweisungen in C implementieren              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/c-implement-conditionals-in-c-438331'>Labor Starten</a>               |
+|      08 | 🎯 Schülerleistungen klassifizieren                      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/c-classify-student-grades-438387'>Challenge Starten</a>               |
+|      09 | 📖 Schleifen in C implementieren                         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/c-implement-loops-in-c-438332'>Labor Starten</a>                      |
+|      10 | 🎯 Multiplikationstabellen generieren                    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/c-generate-multiplication-tables-438391'>Challenge Starten</a>        |
+|      11 | 📖 Arrays in C verarbeiten                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/c-handle-arrays-in-c-438330'>Labor Starten</a>                        |
+|      12 | 🎯 Analyse des Temperatur-Arrays                         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/c-analyze-temperature-array-438390'>Challenge Starten</a>             |
+|      13 | 📖 Funktionen in C erstellen                             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/c-build-functions-in-c-438329'>Labor Starten</a>                      |
+|      14 | 🎯 Erstellen einer Funktion zur Überprüfung auf gerad... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/c-create-even-number-validator-function-438393'>Challenge Starten</a> |
+|      15 | 📖 Projekte in C mit Make verwalten                      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/c-manage-projects-with-make-in-c-438333'>Labor Starten</a>            |
+|      16 | 🎯 Erstellen einer modularen Makefile                    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/c-create-a-modular-makefile-438425'>Challenge Starten</a>             |
 
 ## Mehr
 
-- 🔗 [C Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [C Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
+- 🔗 [C Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [C Kostenlose Tutorials](https://github.com/labex-labs/c-free-tutorials)
 
