@@ -31,26 +31,26 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                             | 難易度   | 練習                                                                                                                        |
 |----------------|--------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 C 言語で「Hello World」を作成する             | ★★★      | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-hello-world-in-c-438286'>ラボを開始</a>                     |
-|             02 | 🎯 最初の C 言語のあいさつプログラムを作成しよう | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-craft-your-first-c-greeting-438337'>チャレンジを開始</a>           |
-|             03 | 📖 C 言語における変数とデータ型の宣言            | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-declare-variables-and-data-types-in-c-438287'>ラボを開始</a>       |
-|             04 | 🎯 学生情報追跡システムの構築                    | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-build-student-information-tracker-438353'>チャレンジを開始</a>     |
-|             05 | 📖 C 言語で基本演算子を使用する                  | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-use-basic-operators-in-c-438288'>ラボを開始</a>                    |
-|             06 | 🎯 温度変換器を作成する                          | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-a-temperature-converter-438383'>チャレンジを開始</a>        |
-|             07 | 📖 C 言語における条件分岐の実装                  | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-implement-conditionals-in-c-438331'>ラボを開始</a>                 |
-|             08 | 🎯 学生の成績を分類する                          | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-classify-student-grades-438387'>チャレンジを開始</a>               |
-|             09 | 📖 C 言語におけるループの実装                    | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-implement-loops-in-c-438332'>ラボを開始</a>                        |
-|             10 | 🎯 九九表を生成する                              | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-generate-multiplication-tables-438391'>チャレンジを開始</a>        |
-|             11 | 📖 C 言語における配列の操作                      | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-handle-arrays-in-c-438330'>ラボを開始</a>                          |
-|             12 | 🎯 気温配列の分析                                | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-analyze-temperature-array-438390'>チャレンジを開始</a>             |
-|             13 | 📖 C 言語で関数を構築する                        | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-build-functions-in-c-438329'>ラボを開始</a>                        |
-|             14 | 🎯 偶数検証関数の作成                            | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-even-number-validator-function-438393'>チャレンジを開始</a> |
-|             15 | 📖 C 言語で Make を使ってプロジェクトを管理する  | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-manage-projects-with-make-in-c-438333'>ラボを開始</a>              |
-|             16 | 🎯 モジュール化された Makefile の作成            | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-a-modular-makefile-438425'>チャレンジを開始</a>             |
+|             01 | 📖 C 言語で「Hello World」を作成する             | 上級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-hello-world-in-c-438286'>ラボを開始</a>                     |
+|             02 | 🎯 最初の C 言語のあいさつプログラムを作成しよう | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-craft-your-first-c-greeting-438337'>チャレンジを開始</a>           |
+|             03 | 📖 C 言語における変数とデータ型の宣言            | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-declare-variables-and-data-types-in-c-438287'>ラボを開始</a>       |
+|             04 | 🎯 学生情報追跡システムの構築                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-build-student-information-tracker-438353'>チャレンジを開始</a>     |
+|             05 | 📖 C 言語で基本演算子を使用する                  | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-use-basic-operators-in-c-438288'>ラボを開始</a>                    |
+|             06 | 🎯 温度変換器を作成する                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-a-temperature-converter-438383'>チャレンジを開始</a>        |
+|             07 | 📖 C 言語における条件分岐の実装                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-implement-conditionals-in-c-438331'>ラボを開始</a>                 |
+|             08 | 🎯 学生の成績を分類する                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-classify-student-grades-438387'>チャレンジを開始</a>               |
+|             09 | 📖 C 言語におけるループの実装                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-implement-loops-in-c-438332'>ラボを開始</a>                        |
+|             10 | 🎯 九九表を生成する                              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-generate-multiplication-tables-438391'>チャレンジを開始</a>        |
+|             11 | 📖 C 言語における配列の操作                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-handle-arrays-in-c-438330'>ラボを開始</a>                          |
+|             12 | 🎯 気温配列の分析                                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-analyze-temperature-array-438390'>チャレンジを開始</a>             |
+|             13 | 📖 C 言語で関数を構築する                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-build-functions-in-c-438329'>ラボを開始</a>                        |
+|             14 | 🎯 偶数検証関数の作成                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-even-number-validator-function-438393'>チャレンジを開始</a> |
+|             15 | 📖 C 言語で Make を使ってプロジェクトを管理する  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-manage-projects-with-make-in-c-438333'>ラボを開始</a>              |
+|             16 | 🎯 モジュール化された Makefile の作成            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-a-modular-makefile-438425'>チャレンジを開始</a>             |
 
 ## その他
 
-- 🔗 [C Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [C Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
+- 🔗 [C プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [C 無料チュートリアル](https://github.com/labex-labs/c-free-tutorials)
 
