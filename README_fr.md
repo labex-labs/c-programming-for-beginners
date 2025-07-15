@@ -13,6 +13,27 @@ Ce cours de programmation en C adapté aux débutants couvre les concepts fondam
 ![C](https://img.shields.io/badge/C-whitesmoke?style=for-the-badge&logo=c)
 
 
+## Exercices
+
+|   Index | Nom                                                         | Difficulté    | Pratique                                                                                                                     |
+|---------|-------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🟢 Créer un programme "Hello World" en C                 | Avancé        | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-hello-world-in-c-438286'>Commencer le Lab</a>                |
+|      02 | 🎯 🟢 Créez votre première salutation en C                  | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-craft-your-first-c-greeting-438337'>Commencer le Défi</a>           |
+|      03 | 📖 🟢 Déclarer des variables et des types de données en ... | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/c-declare-variables-and-data-types-in-c-438287'>Commencer le Lab</a>  |
+|      04 | 🎯 🟢 Construire un suivi des informations sur les élève... | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-build-student-information-tracker-438353'>Commencer le Défi</a>     |
+|      05 | 📖 🟢 Utiliser les opérateurs de base en C                  | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/c-use-basic-operators-in-c-438288'>Commencer le Lab</a>               |
+|      06 | 🎯 🟢 Créer un convertisseur de température                 | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-a-temperature-converter-438383'>Commencer le Défi</a>        |
+|      07 | 📖 🟢 Implémenter des instructions conditionnelles en C     | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-implement-conditionals-in-c-438331'>Commencer le Lab</a>            |
+|      08 | 🎯 🟢 Classer les notes des étudiants                       | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-classify-student-grades-438387'>Commencer le Défi</a>               |
+|      09 | 📖 🟢 Implémenter des boucles en C                          | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-implement-loops-in-c-438332'>Commencer le Lab</a>                   |
+|      10 | 🎯 🟢 Générer des tables de multiplication                  | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-generate-multiplication-tables-438391'>Commencer le Défi</a>        |
+|      11 | 📖 🔵 Manipuler les tableaux en C                           | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-handle-arrays-in-c-438330'>Commencer le Lab</a>                     |
+|      12 | 🎯 🔵 Analyser le tableau de températures                   | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-analyze-temperature-array-438390'>Commencer le Défi</a>             |
+|      13 | 📖 🔵 Créer des fonctions en C                              | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-build-functions-in-c-438329'>Commencer le Lab</a>                   |
+|      14 | 🎯 🔵 Créer une fonction de validation des nombres pairs    | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-even-number-validator-function-438393'>Commencer le Défi</a> |
+|      15 | 📖 🔵 Gérer des projets avec Make en C                      | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-manage-projects-with-make-in-c-438333'>Commencer le Lab</a>         |
+|      16 | 🎯 🔵 Créer un Makefile modulaire                           | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-a-modular-makefile-438425'>Commencer le Défi</a>             |
+
 ## Environnement
 
 LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo.
@@ -23,30 +44,9 @@ LabEx est une plateforme d'apprentissage interactive et pratique dédiée au cod
 - Des environnements en ligne interactifs dans le navigateur, avec des vérifications automatisées étape par étape.
 - Une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences.
 - Une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires.
-- L'assistant d'apprentissage IA Labby, construit sur ChatGPT, offrant une expérience d'apprentissage conversationnelle.
+- L'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercices
-
-|   Index | Nom                                                      | Difficulté    | Pratique                                                                                                                     |
-|---------|----------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Créer un programme "Hello World" en C                 | Avancé        | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-hello-world-in-c-438286'>Commencer le Lab</a>                |
-|      02 | 🎯 Créez votre première salutation en C                  | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-craft-your-first-c-greeting-438337'>Commencer le Défi</a>           |
-|      03 | 📖 Déclarer des variables et des types de données en ... | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/c-declare-variables-and-data-types-in-c-438287'>Commencer le Lab</a>  |
-|      04 | 🎯 Construire un suivi des informations sur les élève... | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-build-student-information-tracker-438353'>Commencer le Défi</a>     |
-|      05 | 📖 Utiliser les opérateurs de base en C                  | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/c-use-basic-operators-in-c-438288'>Commencer le Lab</a>               |
-|      06 | 🎯 Créer un convertisseur de température                 | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-a-temperature-converter-438383'>Commencer le Défi</a>        |
-|      07 | 📖 Implémenter des instructions conditionnelles en C     | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-implement-conditionals-in-c-438331'>Commencer le Lab</a>            |
-|      08 | 🎯 Classer les notes des étudiants                       | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-classify-student-grades-438387'>Commencer le Défi</a>               |
-|      09 | 📖 Implémenter des boucles en C                          | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-implement-loops-in-c-438332'>Commencer le Lab</a>                   |
-|      10 | 🎯 Générer des tables de multiplication                  | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-generate-multiplication-tables-438391'>Commencer le Défi</a>        |
-|      11 | 📖 Manipuler les tableaux en C                           | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-handle-arrays-in-c-438330'>Commencer le Lab</a>                     |
-|      12 | 🎯 Analyser le tableau de températures                   | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-analyze-temperature-array-438390'>Commencer le Défi</a>             |
-|      13 | 📖 Créer des fonctions en C                              | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-build-functions-in-c-438329'>Commencer le Lab</a>                   |
-|      14 | 🎯 Créer une fonction de validation des nombres pairs    | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-even-number-validator-function-438393'>Commencer le Défi</a> |
-|      15 | 📖 Gérer des projets avec Make en C                      | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-manage-projects-with-make-in-c-438333'>Commencer le Lab</a>         |
-|      16 | 🎯 Créer un Makefile modulaire                           | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/c-create-a-modular-makefile-438425'>Commencer le Défi</a>             |
 
 ## Plus
 
