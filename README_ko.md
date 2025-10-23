@@ -15,28 +15,28 @@
 
 ## 연습
 
-|   인덱스 | 이름                                        | 난이도   | 연습                                                                                                                 |
-|----------|---------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🆓 C 언어로 "Hello World" 만들기         | 고급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-create-hello-world-in-c-438286'>실습 시작</a>               |
-|       02 | 🎯 🆓 첫 C 인사 만들기                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-craft-your-first-c-greeting-438337'>도전 시작</a>           |
-|       03 | 📖 🆓 C 언어에서 변수 선언 및 데이터 타입   | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-declare-variables-and-data-types-in-c-438287'>실습 시작</a> |
-|       04 | 🎯 🆓 학생 정보 추적기 구축                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-build-student-information-tracker-438353'>도전 시작</a>     |
-|       05 | 📖 🆓 C 언어 기본 연산자 사용법             | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-use-basic-operators-in-c-438288'>실습 시작</a>              |
-|       06 | 🎯 🆓 온도 변환기 만들기                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-create-a-temperature-converter-438383'>도전 시작</a>        |
-|       07 | 📖 🆓 C 언어 조건문 구현                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-implement-conditionals-in-c-438331'>실습 시작</a>           |
-|       08 | 🎯 🆓 학생 성적 분류                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-classify-student-grades-438387'>도전 시작</a>               |
-|       09 | 📖 🆓 C 언어에서 루프 구현하기              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-implement-loops-in-c-438332'>실습 시작</a>                  |
-|       10 | 🎯 🆓 곱셈표 생성                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-generate-multiplication-tables-438391'>도전 시작</a>        |
-|       11 | 📖  C 언어 배열 다루기                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-handle-arrays-in-c-438330'>실습 시작</a>                    |
-|       12 | 🎯  온도 배열 분석                          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-analyze-temperature-array-438390'>도전 시작</a>             |
-|       13 | 📖  C 언어 함수 만들기                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-build-functions-in-c-438329'>실습 시작</a>                  |
-|       14 | 🎯  짝수 검증 함수 생성                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-create-even-number-validator-function-438393'>도전 시작</a> |
-|       15 | 📖  C 언어에서 Make 를 이용한 프로젝트 관리 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-manage-projects-with-make-in-c-438333'>실습 시작</a>        |
-|       16 | 🎯  모듈형 Makefile 생성                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/c-create-a-modular-makefile-438425'>도전 시작</a>             |
+|   인덱스 | 이름                                        | 난이도   | 연습                                                                                                                                               |
+|----------|---------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🧩 🆓 C 언어로 "Hello World" 만들기         | 고급     | <a target='_blank' href='https://labex.io/ko/labs/c-create-hello-world-in-c-438286?course=c-programming-for-beginners'>실습 시작</a>               |
+|       02 | 🎯 🆓 첫 C 인사 만들기                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/c-craft-your-first-c-greeting-438337?course=c-programming-for-beginners'>도전 시작</a>           |
+|       03 | 🧩 🆓 C 언어에서 변수 선언 및 데이터 타입   | 중급     | <a target='_blank' href='https://labex.io/ko/labs/c-declare-variables-and-data-types-in-c-438287?course=c-programming-for-beginners'>실습 시작</a> |
+|       04 | 🎯 🆓 학생 정보 추적기 구축                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/c-build-student-information-tracker-438353?course=c-programming-for-beginners'>도전 시작</a>     |
+|       05 | 🧩 🆓 C 언어 기본 연산자 사용법             | 중급     | <a target='_blank' href='https://labex.io/ko/labs/c-use-basic-operators-in-c-438288?course=c-programming-for-beginners'>실습 시작</a>              |
+|       06 | 🎯 🆓 온도 변환기 만들기                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/c-create-a-temperature-converter-438383?course=c-programming-for-beginners'>도전 시작</a>        |
+|       07 | 🧩 🆓 C 언어 조건문 구현                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/c-implement-conditionals-in-c-438331?course=c-programming-for-beginners'>실습 시작</a>           |
+|       08 | 🎯 🆓 학생 성적 분류                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/c-classify-student-grades-438387?course=c-programming-for-beginners'>도전 시작</a>               |
+|       09 | 🧩 🆓 C 언어에서 루프 구현하기              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/c-implement-loops-in-c-438332?course=c-programming-for-beginners'>실습 시작</a>                  |
+|       10 | 🎯 🆓 곱셈표 생성                           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/c-generate-multiplication-tables-438391?course=c-programming-for-beginners'>도전 시작</a>        |
+|       11 | 🧩  C 언어 배열 다루기                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/c-handle-arrays-in-c-438330?course=c-programming-for-beginners'>실습 시작</a>                    |
+|       12 | 🎯  온도 배열 분석                          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/c-analyze-temperature-array-438390?course=c-programming-for-beginners'>도전 시작</a>             |
+|       13 | 🧩  C 언어 함수 만들기                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/c-build-functions-in-c-438329?course=c-programming-for-beginners'>실습 시작</a>                  |
+|       14 | 🎯  짝수 검증 함수 생성                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/c-create-even-number-validator-function-438393?course=c-programming-for-beginners'>도전 시작</a> |
+|       15 | 🧩  C 언어에서 Make 를 이용한 프로젝트 관리 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/c-manage-projects-with-make-in-c-438333?course=c-programming-for-beginners'>실습 시작</a>        |
+|       16 | 🎯  모듈형 Makefile 생성                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/c-create-a-modular-makefile-438425?course=c-programming-for-beginners'>도전 시작</a>             |
 
 ## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
